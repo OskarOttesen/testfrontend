@@ -29,4 +29,6 @@ If you are developing a production application, we recommend enabling type-aware
 }
 ```
 
+This is a simulated code change to test github PR with copilot.
+
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
